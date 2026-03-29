@@ -1,4 +1,4 @@
-package org.example.projeto1;
+package com.joaojose.jogodavelha;
 import java.util.Scanner;
 
 public class JogoDaVelha {
