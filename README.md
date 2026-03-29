@@ -1,4 +1,4 @@
-Jogo da Velha - Java 
+## Jogo da Velha - Java 
 Este é um projeto simples de Jogo da Velha desenvolvido em Java, onde dois jogadores podem competir diretamente pelo terminal. O jogo utiliza conceitos fundamentais de Programação Orientada a Objetos (POO), matrizes e lógica de repetição.
 
 🚀 Funcionalidades
